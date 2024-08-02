@@ -4,6 +4,8 @@ import { Header, Footer } from './components';
 import Home from './pages/Home.jsx';
 import About from './pages/About.jsx';
 import Contact from './pages/Contact.jsx';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js'
+
 
 const App = () => {
   return (
