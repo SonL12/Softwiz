@@ -18,7 +18,7 @@ const Header = () => (
     // </div>
     // </header>
     <header>
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav className="navbar navbar-expand-lg navbar-light bg-white">
             <div className="container-fluid">
                 <Link className="navbar-brand d-flex align-items-center" to="/">Softwiz</Link>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
