@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css'
 // import './header.css'
+// ini komen 
 const Header = () => (
     <header>
         <nav className="navbar navbar-expand-lg navbar-light bg-white">
