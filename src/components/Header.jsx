@@ -3,20 +3,6 @@ import { Link } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css'
 // import './header.css'
 const Header = () => (
-    // <header>
-    // <div className="container">
-    //     <div className="logo">Softwiz</div>
-    //     <nav>
-    //     <ul>
-    //         <li><Link to="/">Home</Link></li>
-    //         <li><Link to="/services">Services</Link></li>
-    //         <li><Link to="/portfolio">Portfolio</Link></li>
-    //         <li><Link to="/about">About</Link></li>
-    //         <li><Link to="/contact">Contact</Link></li>
-    //     </ul>
-    //     </nav>
-    // </div>
-    // </header>
     <header>
         <nav className="navbar navbar-expand-lg navbar-light bg-white">
             <div className="container-fluid">
